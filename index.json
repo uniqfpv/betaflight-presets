@@ -6333,14 +6333,14 @@
     },
     {
       "fullPath": "presets/4.5/osd/asd.txt",
-      "hash": "f23283a55f2927eb2fd9286c5bde1bf040667ff27e7fb77aec452695bd67a409",
+      "hash": "4333bf1f88c0f2afa9a7b193ad58bfe5809c4b7bcb3d14add78282e4f9166018",
       "title": "default analog OSD",
       "firmware_version": [
         "4.4",
         "4.5"
       ],
       "category": "OSD",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "OSD"
       ],
