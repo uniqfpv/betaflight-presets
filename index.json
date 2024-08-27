@@ -183,6 +183,7 @@
       "Joshua Bardwell",
       "Justice - Gary Kent",
       "Jye Smith",
+      "Karolis",
       "KMfpv",
       "LeadFingers",
       "MinChan Kim",
@@ -198,7 +199,6 @@
       "sugarK",
       "SupaflyFPV",
       "UAV Tech (Mark Spatz)",
-      "uniq",
       "Utka v tapkah",
       "Viki Baarathi",
       "Volker Göschl-Covrljan",
@@ -6333,18 +6333,18 @@
     },
     {
       "fullPath": "presets/4.5/osd/asd.txt",
-      "hash": "2ce2b8061316a9980714bae3d43133974ec797239db08806cd70e882451bea05",
-      "title": "uniq default analog OSD",
+      "hash": "4333bf1f88c0f2afa9a7b193ad58bfe5809c4b7bcb3d14add78282e4f9166018",
+      "title": "default analog OSD",
       "firmware_version": [
         "4.4",
         "4.5"
       ],
       "category": "OSD",
-      "status": "COMMUNITY",
+      "status": "OFFICIAL",
       "keywords": [
         "OSD"
       ],
-      "author": "uniq",
+      "author": "Karolis",
       "priority": 0
     },
     {
