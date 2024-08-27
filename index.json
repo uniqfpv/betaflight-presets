@@ -183,7 +183,7 @@
       "Joshua Bardwell",
       "Justice - Gary Kent",
       "Jye Smith",
-      "Karolis",
+      "karolis",
       "KMfpv",
       "LeadFingers",
       "MinChan Kim",
@@ -6333,18 +6333,18 @@
     },
     {
       "fullPath": "presets/4.5/osd/asd.txt",
-      "hash": "4333bf1f88c0f2afa9a7b193ad58bfe5809c4b7bcb3d14add78282e4f9166018",
+      "hash": "73f0643dc902c4e99e9ecc1f3cfb68e9e38982b0998e4c5c09ef0ffdc1f33a33",
       "title": "default analog OSD",
       "firmware_version": [
         "4.4",
         "4.5"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "COMMUNITY",
       "keywords": [
         "OSD"
       ],
-      "author": "Karolis",
+      "author": "karolis",
       "priority": 0
     },
     {
