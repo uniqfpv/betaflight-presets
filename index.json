@@ -6332,7 +6332,7 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/asd.txt",
+      "fullPath": "presets/4.5/osd/default.txt",
       "hash": "4333bf1f88c0f2afa9a7b193ad58bfe5809c4b7bcb3d14add78282e4f9166018",
       "title": "default analog OSD",
       "firmware_version": [
