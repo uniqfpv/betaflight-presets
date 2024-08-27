@@ -4,7 +4,7 @@
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: OSD
-#$ AUTHOR: karolis
+#$ AUTHOR: Karolis
 
 #$ DESCRIPTION: made with love
 
