@@ -28,7 +28,7 @@ set pid_at_min_throttle = ON
 set anti_gravity_gain = 80
 set anti_gravity_cutoff_hz = 5
 set anti_gravity_p_gain = 100
-set acc_limit_yaw = 1
+set acc_limit_yaw = 0
 set acc_limit = 0
 
 set iterm_rotation = OFF
