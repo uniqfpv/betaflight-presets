@@ -1,7 +1,7 @@
-#$ TITLE: uniq - OSD for race
+#$ TITLE: uniq_OSD_for_race
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
-#$ STATUS: COMMUNITY
+#$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: OSD
 #$ AUTHOR: Karolis
 #$ DESCRIPTION: made with love
