@@ -1,9 +1,9 @@
 #$ TITLE: uniq - OSD for race
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
-#$ STATUS: Community
+#$ STATUS: COMMUNITY
 #$ KEYWORDS: OSD
-#$ AUTHOR: Karoliss
+#$ AUTHOR: Karolis
 #$ DESCRIPTION: made with love
 
 set osd_warn_bitmask = 279549
