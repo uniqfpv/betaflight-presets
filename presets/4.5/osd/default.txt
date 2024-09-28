@@ -1,4 +1,4 @@
-#$ TITLE: uniq_OSD_for_race
+#$ TITLE: uniq - OSD for race
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
