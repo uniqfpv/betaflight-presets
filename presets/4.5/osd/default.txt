@@ -1,7 +1,7 @@
 #$ TITLE: uniq - OSD for race
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
-#$ STATUS: asd
+#$ STATUS: Community
 #$ KEYWORDS: OSD
 #$ AUTHOR: Karoliss
 #$ DESCRIPTION: made with love
