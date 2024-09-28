@@ -1,7 +1,7 @@
-#$ TITLE: default analog OSD 
+#$ TITLE: uniq - OSD for race
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
-#$ STATUS: OFFICIAL
+#$ STATUS: asd
 #$ KEYWORDS: OSD
 #$ AUTHOR: Karoliss
 #$ DESCRIPTION: made with love
