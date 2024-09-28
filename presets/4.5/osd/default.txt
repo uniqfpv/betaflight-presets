@@ -17,5 +17,4 @@ set osd_avg_cell_voltage_pos = 2528
 set osd_disarmed_pos = 2506
 set osd_flip_arrow_pos = 2318
 set osd_stat_bitmask = 131234
-set osd_canvas_height = 13
-
+set vcd_video_system = PAL
