@@ -9,7 +9,7 @@
 
 #$ DESCRIPTION: made with love
 
-#$ DESCRIPTION: ![Logo](https://dronefix.lt/wp-content/uploads/2024/06/Baltas-logo-su-tekstu.png)
+#$ DESCRIPTION: <img src="https://dronefix.lt/wp-content/uploads/2024/06/Baltas-logo-su-tekstu.png" width="125px"/>
 
 set osd_warn_bitmask = 279549
 set osd_tim1 = 2563
