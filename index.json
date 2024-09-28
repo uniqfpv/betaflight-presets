@@ -5693,14 +5693,13 @@
     },
     {
       "fullPath": "presets/4.5/osd/default.txt",
-      "hash": "4333bf1f88c0f2afa9a7b193ad58bfe5809c4b7bcb3d14add78282e4f9166018",
-      "title": "default analog OSD",
+      "hash": "ac49ea9d8fd63b571a391b8d46fbdebabda5e9a298cbcb4145ef5aaea96acfc6",
+      "title": "uniq - OSD for race",
       "firmware_version": [
-        "4.4",
         "4.5"
       ],
       "category": "OSD",
-      "status": "OFFICIAL",
+      "status": "EXPERIMENTAL",
       "keywords": [
         "OSD"
       ],
