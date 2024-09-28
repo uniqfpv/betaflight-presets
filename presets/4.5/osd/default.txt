@@ -8,8 +8,7 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION: made with love
-#$ DESCRIPTION: <img src="https://i0.wp.com/theuavtech.com/wp-content/uploads/2020/10/icon-150x150-1.png" width="125px"/>
-
+#$ DESCRIPTION: Check out the logo here: https://dronefix.lt/wp-content/uploads/2024/06/Baltas-logo-su-tekstu.png
 set osd_warn_bitmask = 279549
 set osd_tim1 = 2563
 set osd_link_quality_pos = 2496
