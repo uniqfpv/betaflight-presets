@@ -4,8 +4,8 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: OSD
 #$ AUTHOR: Karolis
-#$ DESCRIPTION: made with love
-#$ DESCRIPTION: <img src="https://i0.wp.com/theuavtech.com/wp-content/uploads/2020/10/icon-150x150-1.png" width="125px"/>
+#$ DESCRIPTION: made with lovee
+#$ DESCRIPTION: <img src="https://i0.wp.com/theuavtech.com/wp-content/uploads/2020/10/icon-150x150-1.png" width="125px" style="margin-left: auto; margin-right: auto; display: block;"/>
 
 set osd_warn_bitmask = 279549
 set osd_tim1 = 2563
