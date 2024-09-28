@@ -5,8 +5,6 @@
 #$ KEYWORDS: OSD
 #$ AUTHOR: Karolis
 #$ DESCRIPTION: made with love
-#$ DESCRIPTION: ![Logo](https://dronefix.lt/wp-content/uploads/2024/06/Baltas-logo-su-tekstu.png)
-
 
 set osd_warn_bitmask = 279549
 set osd_tim1 = 2563
