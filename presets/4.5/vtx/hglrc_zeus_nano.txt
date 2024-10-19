@@ -1,4 +1,4 @@
-#$ TITLE: uniq - hglrc zeus nano vtxtables
+#$ TITLE: Zeus nano VTX 350mW 
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: EXPERIMENTAL
