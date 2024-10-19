@@ -5692,8 +5692,23 @@
       "priority": 100
     },
     {
+      "fullPath": "presets/4.5/modes/default.txt",
+      "hash": "47d4f4dfd0dab407bac5243fb9b3176a4ab0c01012e78674a3e32c7db11c0be8",
+      "title": "uniq - modes tab",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "MODES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "modes"
+      ],
+      "author": "Karolis",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/default.txt",
-      "hash": "ac49ea9d8fd63b571a391b8d46fbdebabda5e9a298cbcb4145ef5aaea96acfc6",
+      "hash": "952c876902818f68fb504ac1612c98ea5ee9783b211510b4d1019d826b3cb86b",
       "title": "uniq - OSD for race",
       "firmware_version": [
         "4.5"
