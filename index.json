@@ -5740,6 +5740,21 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/vtx/hglrc_zeus_nano.txt",
+      "hash": "3a7b3ed15aabe7c705567ca883c90509d36f6ddfc0a4be6bd3e2c0a0ef5a511a",
+      "title": "uniq - hglrc zeus nano vtxtables",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx"
+      ],
+      "author": "Karolis",
+      "priority": 1000000
     }
   ]
 }
