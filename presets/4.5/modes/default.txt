@@ -1,0 +1,12 @@
+#$ TITLE: uniq - modes tab
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: MODES
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: modes
+#$ AUTHOR: Karolis
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: made with love
+
+aux 0 0 0 1950 2050 0 0
