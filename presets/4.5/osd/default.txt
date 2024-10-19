@@ -7,7 +7,7 @@
 
 #$ PARSER: MARKED
 
-#$ DESCRIPTION: made with love <3
+#$ DESCRIPTION: made with love
 
 set osd_warn_bitmask = 280573
 set osd_tim1 = 2563
