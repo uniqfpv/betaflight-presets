@@ -5,8 +5,6 @@
 #$ KEYWORDS: modes
 #$ AUTHOR: Karolis
 
-#$ PARSER: MARKED
-
 #$ DESCRIPTION: arm,angl,hrn,acro,buz,turt
 
 aux 0 0 0 1950 2050 0 0
@@ -14,10 +12,3 @@ aux 1 1 1 1950 2050 0 0
 aux 2 2 1 1450 1550 0 0
 aux 3 13 2 1950 2050 0 0
 aux 4 35 3 1950 2050 0 0
-
-vtx 0 4 0 0 1 900 1100
-vtx 1 4 0 0 4 1100 1300
-vtx 2 4 5 2 0 1300 1500
-vtx 3 4 5 4 0 1500 1700
-vtx 4 4 5 6 0 1700 1900
-vtx 5 4 5 8 0 1900 2100
