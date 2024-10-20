@@ -5743,9 +5743,10 @@
     },
     {
       "fullPath": "presets/4.5/vtx/TBS_UNIFY_PRO_NANO_5G8.txt",
-      "hash": "87dda3a8f537382489d5d6ad9174bc53deb2404904bdbcb5a9289ed6a44935f0",
+      "hash": "5a0980b857959c65bd9ff290bb484f5f05834e14053bf2597b38609034947bf3",
       "title": "TBS UNIFY PRO NANO 5G8 VTX",
       "firmware_version": [
+        "4.4",
         "4.5"
       ],
       "category": "VTX",
@@ -5758,9 +5759,10 @@
     },
     {
       "fullPath": "presets/4.5/vtx/hglrc_zeus_nano.txt",
-      "hash": "d6cf0642af600a63105d7c9d38dc92eaca3714d242207c91abbf2eda2705c00b",
+      "hash": "64c1afc5ad220a4fe70ecaa6b0c5b084d59ead27d0f6862add848abfe9cfc7a2",
       "title": "Zeus nano VTX 350mW",
       "firmware_version": [
+        "4.4",
         "4.5"
       ],
       "category": "VTX",
