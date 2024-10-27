@@ -137,55 +137,27 @@
       "4.5"
     ],
     "category": [
-      "FILTERS",
       "MODES",
       "OSD",
-      "TUNE",
       "VTX"
     ],
     "author": [
-      "Betaflight",
       "Karolis"
     ],
     "keywords": [
-      "basic",
-      "default",
-      "defaults",
-      "filter",
-      "filters",
       "hglrc",
       "modes",
-      "OSD",
-      "pid",
-      "reset",
+      "osd",
       "tbs",
-      "tune",
+      "uniq",
       "vtx",
       "zeus"
     ]
   },
   "presets": [
     {
-      "fullPath": "presets/4.5/filters/defaults.txt",
-      "hash": "618e82175f3f63abfcbdd5315e2c17d915f608ac42af22aa1256470f3d2ea5fe",
-      "title": "Default 4.5 Filter settings",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "FILTERS",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "filter",
-        "filters",
-        "reset"
-      ],
-      "author": "Betaflight",
-      "priority": 100
-    },
-    {
       "fullPath": "presets/4.5/modes/default.txt",
-      "hash": "346d4ad62a374fdbd1abc10fcd59f253f3df2061d54febf22747e439ac51f3d6",
+      "hash": "e3a70fc23b4042add27786517640cf07d9818ec8f5432096f7623bb5771a11fd",
       "title": "uniq - modes tab",
       "firmware_version": [
         "4.5"
@@ -193,44 +165,26 @@
       "category": "MODES",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "modes"
+        "modes",
+        "uniq"
       ],
       "author": "Karolis",
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/osd/default.txt",
-      "hash": "952c876902818f68fb504ac1612c98ea5ee9783b211510b4d1019d826b3cb86b",
-      "title": "uniq - OSD for race",
+      "fullPath": "presets/4.5/osd/race.txt",
+      "hash": "f20e9182d6d3070e682b0f4a716ab2b52e3aa3d7b9994d005c5f713d53a10828",
+      "title": "uniq - OSD for racing",
       "firmware_version": [
         "4.5"
       ],
       "category": "OSD",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "OSD"
+        "osd",
+        "uniq"
       ],
       "author": "Karolis",
-      "priority": 0
-    },
-    {
-      "fullPath": "presets/4.5/tune/defaults.txt",
-      "hash": "40d749b64f98141dea03e11b77976f0907a7e3b912c2e52c7395715eb570dfdd",
-      "title": "Betaflight 4.5 TUNE defaults",
-      "firmware_version": [
-        "4.5"
-      ],
-      "category": "TUNE",
-      "status": "OFFICIAL",
-      "keywords": [
-        "defaults",
-        "reset",
-        "tune",
-        "pid",
-        "basic",
-        "default"
-      ],
-      "author": "Betaflight",
       "priority": 0
     },
     {

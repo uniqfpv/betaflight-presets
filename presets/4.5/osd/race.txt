@@ -1,11 +1,9 @@
-#$ TITLE: uniq - OSD for race
+#$ TITLE: uniq - OSD for racing
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: OSD
+#$ KEYWORDS: osd, uniq
 #$ AUTHOR: Karolis
-
-#$ PARSER: MARKED
 
 #$ DESCRIPTION: made with love
 
