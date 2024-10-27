@@ -5693,7 +5693,7 @@
     },
     {
       "fullPath": "presets/4.5/modes/default.txt",
-      "hash": "914d2ae53a8cac0f95db13db2f14d13e93775cdc40c56cea036a97142ad441d4",
+      "hash": "346d4ad62a374fdbd1abc10fcd59f253f3df2061d54febf22747e439ac51f3d6",
       "title": "uniq - modes tab",
       "firmware_version": [
         "4.5"
@@ -5742,11 +5742,26 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.5/vtx/TBS_UNIFY_PRO_NANO_5G8.txt",
+      "fullPath": "presets/4.5/vtx/TBS Unify Pro Nano.txt",
       "hash": "5a0980b857959c65bd9ff290bb484f5f05834e14053bf2597b38609034947bf3",
       "title": "TBS UNIFY PRO NANO 5G8 VTX",
       "firmware_version": [
         "4.4",
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx"
+      ],
+      "author": "Karolis",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/TBS Unify Pro32 HV.txt",
+      "hash": "fe81b05e7eb12ae45871a671fd8182e3b51af3bed17f5cd223efdc0d60ceeead",
+      "title": "TBS Unify Pro32 HV VTX",
+      "firmware_version": [
         "4.5"
       ],
       "category": "VTX",
