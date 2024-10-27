@@ -371,6 +371,7 @@
       "HDOSD",
       "HDzero",
       "Headsup",
+      "hglrc",
       "HighKV",
       "hot",
       "HV",
@@ -552,7 +553,8 @@
       "world champion",
       "wtfos",
       "YAROSFPV",
-      "youtube"
+      "youtube",
+      "zeus"
     ]
   },
   "presets": [
@@ -5743,47 +5745,49 @@
     },
     {
       "fullPath": "presets/4.5/vtx/TBS Unify Pro Nano.txt",
-      "hash": "5a0980b857959c65bd9ff290bb484f5f05834e14053bf2597b38609034947bf3",
-      "title": "TBS UNIFY PRO NANO 5G8 VTX",
+      "hash": "8c3dc34ec046c68a382de4efe49909200780daf5234728828b796984e6128f0c",
+      "title": "TBS UNIFY PRO NANO",
       "firmware_version": [
-        "4.4",
         "4.5"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "vtx"
+        "vtx",
+        "tbs"
       ],
       "author": "Karolis",
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.5/vtx/TBS Unify Pro32 HV.txt",
-      "hash": "fe81b05e7eb12ae45871a671fd8182e3b51af3bed17f5cd223efdc0d60ceeead",
-      "title": "TBS Unify Pro32 HV VTX",
+      "hash": "697abb213d98c246fd76a22053073a10b37b73108e9abaca16fdd6815201fa52",
+      "title": "TBS Unify Pro32 HV",
       "firmware_version": [
         "4.5"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "vtx"
+        "vtx",
+        "tbs"
       ],
       "author": "Karolis",
       "priority": 1000000
     },
     {
       "fullPath": "presets/4.5/vtx/hglrc_zeus_nano.txt",
-      "hash": "64c1afc5ad220a4fe70ecaa6b0c5b084d59ead27d0f6862add848abfe9cfc7a2",
+      "hash": "a29f5e819f8dc9ca6accf1a23f0677602affb0f6dd9c347e8f6be5ebde4d4fc9",
       "title": "Zeus nano VTX 350mW",
       "firmware_version": [
-        "4.4",
         "4.5"
       ],
       "category": "VTX",
       "status": "EXPERIMENTAL",
       "keywords": [
-        "vtx"
+        "vtx",
+        "zeus",
+        "hglrc"
       ],
       "author": "Karolis",
       "priority": 1000000

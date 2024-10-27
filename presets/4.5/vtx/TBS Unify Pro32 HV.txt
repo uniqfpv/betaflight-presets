@@ -1,11 +1,11 @@
-#$ TITLE: TBS Unify Pro32 HV VTX
+#$ TITLE: TBS Unify Pro32 HV 
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: vtx
+#$ KEYWORDS: vtx, tbs
 #$ AUTHOR: Karolis
 
-#$ DESCRIPTION: made with love
+#$ DESCRIPTION: vtx table for TBS Unify Pro32 HV 
 
 # vtxtable
 vtxtable bands 5

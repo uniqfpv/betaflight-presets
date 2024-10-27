@@ -1,12 +1,11 @@
-#$ TITLE: TBS UNIFY PRO NANO 5G8 VTX
-#$ FIRMWARE_VERSION: 4.4
+#$ TITLE: TBS UNIFY PRO NANO 
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: vtx
+#$ KEYWORDS: vtx, tbs
 #$ AUTHOR: Karolis
 
-#$ DESCRIPTION: made with love
+#$ DESCRIPTION: vtx table for TBS UNIFY PRO NANO 
 
 # vtxtable
 vtxtable bands 5

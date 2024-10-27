@@ -1,12 +1,11 @@
 #$ TITLE: Zeus nano VTX 350mW 
-#$ FIRMWARE_VERSION: 4.4
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: vtx
+#$ KEYWORDS: vtx, zeus, hglrc
 #$ AUTHOR: Karolis
 
-#$ DESCRIPTION: made with love
+#$ DESCRIPTION: vtx table for Zeus nano VTX 350mW 
 
 # vtxtable
 vtxtable bands 5
