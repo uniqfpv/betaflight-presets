@@ -173,8 +173,8 @@
     },
     {
       "fullPath": "presets/4.5/osd/race.txt",
-      "hash": "5992290cc0fe30fe21a815a0f45ab89e6e91c9a5e90d1e42b8317185d8df2f4a",
-      "title": "uniq - OSD for racing",
+      "hash": "61d679474b3a88a641abd23b483030bfd921fd01b6db6ce9dc4ffa9e20ff5df1",
+      "title": "uniq - OSD",
       "firmware_version": [
         "4.5"
       ],
