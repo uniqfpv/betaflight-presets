@@ -145,6 +145,8 @@
       "Karolis"
     ],
     "keywords": [
+      "aio",
+      "betafpv",
       "hglrc",
       "modes",
       "osd",
@@ -157,7 +159,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/modes/default.txt",
-      "hash": "e3a70fc23b4042add27786517640cf07d9818ec8f5432096f7623bb5771a11fd",
+      "hash": "5439aec57c5b52eb977ad0496ab4b563ba60db1b1a18fbeceec7e2bc64ec6647",
       "title": "uniq - modes tab",
       "firmware_version": [
         "4.5"
@@ -186,6 +188,23 @@
       ],
       "author": "Karolis",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/vtx/BETAFPV AIO.txt",
+      "hash": "22df2ad1561970692092db72623d5e34ca047c90f6eeca09c8c77894323dfd0c",
+      "title": "BETAFPV AIO VTX 25-400mW",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "betafpv",
+        "aio"
+      ],
+      "author": "Karolis",
+      "priority": 1000000
     },
     {
       "fullPath": "presets/4.5/vtx/TBS Unify Pro Nano.txt",
