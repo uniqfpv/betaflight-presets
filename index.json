@@ -147,6 +147,7 @@
     "keywords": [
       "aio",
       "betafpv",
+      "control",
       "hglrc",
       "modes",
       "osd",
@@ -159,7 +160,7 @@
   "presets": [
     {
       "fullPath": "presets/4.5/modes/default.txt",
-      "hash": "5439aec57c5b52eb977ad0496ab4b563ba60db1b1a18fbeceec7e2bc64ec6647",
+      "hash": "31babc1e1cb06529b6327696c5221adc8d1f8c27b78f1eafbae4fd390937ce3b",
       "title": "uniq - modes tab",
       "firmware_version": [
         "4.5"
@@ -208,7 +209,7 @@
     },
     {
       "fullPath": "presets/4.5/vtx/TBS Unify Pro Nano.txt",
-      "hash": "8c3dc34ec046c68a382de4efe49909200780daf5234728828b796984e6128f0c",
+      "hash": "c9a7fa50bf63b5833bdebd5e34688bd8d2f0514be79daadf737cff17ee4e9fdf",
       "title": "TBS UNIFY PRO NANO",
       "firmware_version": [
         "4.5"
@@ -224,7 +225,7 @@
     },
     {
       "fullPath": "presets/4.5/vtx/TBS Unify Pro32 HV.txt",
-      "hash": "697abb213d98c246fd76a22053073a10b37b73108e9abaca16fdd6815201fa52",
+      "hash": "858df9b6bd648986f3ab5e94d0cf5aaa68728e94712b1db9f28b45cc00f2bc76",
       "title": "TBS Unify Pro32 HV",
       "firmware_version": [
         "4.5"
@@ -240,7 +241,7 @@
     },
     {
       "fullPath": "presets/4.5/vtx/hglrc_zeus_nano.txt",
-      "hash": "a29f5e819f8dc9ca6accf1a23f0677602affb0f6dd9c347e8f6be5ebde4d4fc9",
+      "hash": "0757bd17b0481f67adecfabb3d26c6a3c2ecedbd8b839d802751b0ef710b392d",
       "title": "Zeus nano VTX 350mW",
       "firmware_version": [
         "4.5"
@@ -251,6 +252,23 @@
         "vtx",
         "zeus",
         "hglrc"
+      ],
+      "author": "Karolis",
+      "priority": 1000000
+    },
+    {
+      "fullPath": "presets/4.5/vtx/vtx control.txt",
+      "hash": "bf7a2d8439ae2ea1383c36103eac76332fcaebf64c74aa1de14181a0925f8469",
+      "title": "VTX Control over aux",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "VTX",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "vtx",
+        "control",
+        "uniq"
       ],
       "author": "Karolis",
       "priority": 1000000
