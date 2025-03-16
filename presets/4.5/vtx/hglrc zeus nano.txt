@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: VTX
 #$ STATUS: EXPERIMENTAL
-#$ KEYWORDS: vtx, zeus, hglrc, lialia
+#$ KEYWORDS: vtx, hglrc
 #$ AUTHOR: Karolis
 
 #$ DESCRIPTION: vtx table for Zeus nano VTX 350mW 
