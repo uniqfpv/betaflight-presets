@@ -149,6 +149,7 @@
       "betafpv",
       "control",
       "hglrc",
+      "lialia",
       "modes",
       "osd",
       "tbs",
@@ -240,8 +241,8 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.5/vtx/hglrc_zeus_nano.txt",
-      "hash": "656b98b32c25c602e3a7677a645348b5c47bf30230b35bebaa2863a3f8d13894",
+      "fullPath": "presets/4.5/vtx/hglrc zeus nano.txt",
+      "hash": "ab7c3e168ab075f477c786cd36bc23d1369137c92c4a9cbe36a4c09536b6abc1",
       "title": "Zeus nano VTX 350mW",
       "firmware_version": [
         "4.5"
@@ -251,7 +252,8 @@
       "keywords": [
         "vtx",
         "zeus",
-        "hglrc"
+        "hglrc",
+        "lialia"
       ],
       "author": "Karolis",
       "priority": 1000000
