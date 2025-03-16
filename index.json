@@ -242,8 +242,8 @@
     },
     {
       "fullPath": "presets/4.5/vtx/hglrc zeus nano.txt",
-      "hash": "ab7c3e168ab075f477c786cd36bc23d1369137c92c4a9cbe36a4c09536b6abc1",
-      "title": "Zeus nano VTX 350mW",
+      "hash": "5a76eb096945b49a5616db51d44c85c97b90f0e3c52ce539963ef6a318d0f2ef",
+      "title": "Zeus nano VTX 25-350mW",
       "firmware_version": [
         "4.5"
       ],
